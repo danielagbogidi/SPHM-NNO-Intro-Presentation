@@ -1,0 +1,8 @@
+# PowerPoint / Office lock and temp files
+~$*
+*.tmp
+# Empty placeholder file
+FY27/NEO/SPHM NEO Introduction Presentation
+# OS clutter
+desktop.ini
+Thumbs.db
